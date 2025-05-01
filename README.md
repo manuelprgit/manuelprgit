@@ -31,11 +31,11 @@ Soy un desarrollador web con experiencia en tecnologías modernas como React, Sa
 ### 📫 ¿Cómo contactarme?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/manuel-perez-reyes-8b107132/)
-- 📩 Email: manuel.p.r@hotmail.com
+- 📩 manuel.p.r@hotmail.com
 
 ---
 
 ### ⚡ Fun fact
 
-> “Primero diseño en Figma, luego código en React. Siempre con café ☕️.”
+> “Primero diseño en Figma y luego codifico en JS. Siempre con cafécito cerquita ☕️.”
 
