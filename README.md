@@ -1,8 +1,8 @@
 # 👋 Hi! I am Manuel Perez Reyes
 
-### 💻 Desarrollador Web | Frontend | UI Lover
+### 💻 Web Developer | Frontend | UI Lover
 
-Soy un desarrollador web con experiencia en tecnologías modernas como React, Sass, Git, y herramientas de diseño como Figma. Me encanta crear interfaces limpias, funcionales y visualmente atractivas.
+I'm a web developer experienced in modern technologies like React, Tailwind CSS, Git, and design tools like Figma. I love creating clean, functional, and visually appealing interfaces.
 
 ---
 
@@ -12,23 +12,24 @@ Soy un desarrollador web con experiencia en tecnologías modernas como React, Sa
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 📌 Proyectos Destacados
-**En proceso**
+### 📌 Featured Projects
+**Work in Progress**
 <!-- 
-| Proyecto | Tecnologías | Demo | Repositorio |
-|---------|-------------|------|-------------|
-| **Nombre del Proyecto** | React, Sass, API | [Ver](#) | [GitHub](#) |
-| **Otro Proyecto** | HTML, JS, Figma | [Ver](#) | [GitHub](#) | -->
+| Project | Technologies | Live Demo | Repository |
+|---------|--------------|-----------|------------|
+| **Project Name** | React, Sass, API | [View](#) | [GitHub](#) |
+| **Another Project** | HTML, JS, Figma | [View](#) | [GitHub](#) | -->
 
 ---
 
-### 📫 ¿Cómo contactarme?
+### 📫 How to reach me?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/manuel-perez-reyes-8b107132/)
 - 📩 manuel.p.r@hotmail.com
@@ -37,5 +38,4 @@ Soy un desarrollador web con experiencia en tecnologías modernas como React, Sa
 
 ### ⚡ Fun fact
 
-> “Primero diseño en Figma y luego codifico en JS. Siempre con cafécito cerquita ☕️.”
-
+> “I always start in Figma, then bring it to life with JavaScript — and always with a coffee close by ☕️.”
